@@ -3,6 +3,9 @@
 
 ## Desarrollador
 Irving Azael Muñoz Ochoa
+Sua Merari Rocha Rodriguez
+Luis Angel Sigala Arredondo
+Leonardo Villarreal Martínez
 
 ---
 
